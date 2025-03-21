@@ -1,0 +1,29 @@
+sensor_kit_base_link:
+  camera0/camera_link: # Error this is lidar to camera
+    x: 0.29
+    y: 0.055
+    z: -0.18
+    roll: 1.65
+    pitch: 0.0188
+    yaw: 1.619
+  os1_32_top_base_link:
+    x: 1.880
+    y: -0.070
+    z: 1.570
+    roll: 3.1131
+    pitch: 3.0330
+    yaw: 3.1072
+  oem7_link:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    roll: 0.0
+    pitch: 0.0
+    yaw: 0.0
+  radar_front_link:
+    x: 3.896
+    y: 0.2
+    z: 0.48
+    roll: 0.0
+    pitch: 0.0
+    yaw: 0.0
